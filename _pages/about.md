@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year undergraduate at The Hong Kong University of Science and Technology (HKUST).
+I am a final-year undergraduate at The Hong Kong University of Science and Technology (HKUST), majoring in Computer Science. Currently, I am working with [Shizhe Diao](https://shizhediao.github.io/) and [Yong Lin](https://linyongver.github.io/yonglin.github.io/) in [StatML Lab](https://statml.hkust.edu.hk/), advised by Professor [Tong Zhang](http://tongzhang-ml.org/). In 2023 Spring, I had the privilege to exchange at the University of Illinois Urbana-Champaign and work in [Blender Lab], advised by [Manling Li](https://limanling.github.io/) and Professor [Heng Ji](https://blender.cs.illinois.edu/hengji.html).
+
+<span style="color:red">I am looking for a MS/PhD position in 2024 Fall!</span>
 
 Research Interest
 ------
-Natural Language Processing and Large Language Models
+My research interests include Natural Language Processing (NLP) and Large Language Models (LLMs). Especially, I am excited about improving the factuality and mitigating the hallucination of the language models. I hope to specialize the language models into downstream tasks while maintaining their generality as much as possible. In addition, I am interested in combining NLP techniques into social analysis.
 
 Research Works
 ------
