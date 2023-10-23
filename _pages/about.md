@@ -16,9 +16,9 @@ Natural Language Processing and Large Language Models
 
 Research Works
 ------
-* Speciality vs Generality: An Empirical Study on Catastrophic Forgetting in Fine-tuning Foundation Models
-* Instructing Large Language Models to Say "I don't know"
-* InfoPattern: Unveiling Information Propagation Patterns in Social Media
+* [Speciality vs Generality: An Empirical Study on Catastrophic Forgetting in Fine-tuning Foundation Models]()
+* [Instructing Large Language Models to Say "I don't know"]()
+* [InfoPattern: Unveiling Information Propagation Patterns in Social Media]()
 
 CV
 ------
