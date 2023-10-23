@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year undergraduate at The Hong Kong University of Science and Technology (HKUST), majoring in Computer Science. Currently, I am working with [Shizhe Diao](https://shizhediao.github.io/) and [Yong Lin](https://linyongver.github.io/yonglin.github.io/) in [StatML Lab](https://statml.hkust.edu.hk/), advised by Professor [Tong Zhang](http://tongzhang-ml.org/). In 2023 Spring, I had the privilege to exchange at the University of Illinois Urbana-Champaign and work in [Blender Lab], advised by [Manling Li](https://limanling.github.io/) and Professor [Heng Ji](https://blender.cs.illinois.edu/hengji.html).
+I am a final-year undergraduate at The Hong Kong University of Science and Technology (HKUST), majoring in Computer Science. Currently, I am working with [Shizhe Diao](https://shizhediao.github.io/) and [Yong Lin](https://linyongver.github.io/yonglin.github.io/) in [StatML Lab](https://statml.hkust.edu.hk/), advised by Professor [Tong Zhang](http://tongzhang-ml.org/). In 2023 Spring, I had the privilege to exchange at the University of Illinois Urbana-Champaign (UIUC) and work in [Blender Lab](https://blender.cs.illinois.edu/), advised by [Manling Li](https://limanling.github.io/) and Professor [Heng Ji](https://blender.cs.illinois.edu/hengji.html).
 
 <span style="color:red">I am looking for a MS/PhD position in 2024 Fall!</span>
 
@@ -18,9 +18,9 @@ My research interests include Natural Language Processing (NLP) and Large Langua
 
 Research Works
 ------
-* [Speciality vs Generality: An Empirical Study on Catastrophic Forgetting in Fine-tuning Foundation Models]()
-* [Instructing Large Language Models to Say "I don't know"]()
-* [InfoPattern: Unveiling Information Propagation Patterns in Social Media]()
+* [Speciality vs Generality: An Empirical Study on Catastrophic Forgetting in Fine-tuning Foundation Models]() Yong Lin*, ..., Hanning Zhang, ..., Tong Zhang (* denotes equal contribution)
+* [Instructing Large Language Models to Say "I don't know"]() Hanning Zhang*, Shizhe Diao*, Yong Lin*, Tong Zhang, Heng Ji (* denotes equal contribution)
+* [InfoPattern: Unveiling Information Propagation Patterns in Social Media]() Chi Han*, Manling Li*, Jialiang Xu*, Hanning Zhang*, Tarek Abdelzaher, Heng Ji (* denotes equal contribution, determined in alphabetical order)
 
 CV
 ------
