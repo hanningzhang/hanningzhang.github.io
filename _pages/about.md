@@ -18,9 +18,9 @@ My research interests include Natural Language Processing (NLP) and Large Langua
 
 Research Works
 ------
-* [Speciality vs Generality: An Empirical Study on Catastrophic Forgetting in Fine-tuning Foundation Models]() Yong Lin*, ..., Hanning Zhang, ..., Tong Zhang (* denotes equal contribution)
-* [Instructing Large Language Models to Say "I don't know"]() Hanning Zhang*, Shizhe Diao*, Yong Lin*, Tong Zhang, Heng Ji (* denotes equal contribution)
-* [InfoPattern: Unveiling Information Propagation Patterns in Social Media]() Chi Han*, Manling Li*, Jialiang Xu*, Hanning Zhang*, Tarek Abdelzaher, Heng Ji (* denotes equal contribution, determined in alphabetical order)
+* [Speciality vs Generality: An Empirical Study on Catastrophic Forgetting in Fine-tuning Foundation Models]() Yong Lin\*, ..., Hanning Zhang, ..., Tong Zhang (* denotes equal contribution)
+* [Instructing Large Language Models to Say "I don't know"]() Hanning Zhang\*, Shizhe Diao\*, Yong Lin\*, Tong Zhang, Heng Ji (* denotes equal contribution)
+* [InfoPattern: Unveiling Information Propagation Patterns in Social Media]() Chi Han\*, Manling Li\*, Jialiang Xu\*, Hanning Zhang\*, Tarek Abdelzaher, Heng Ji (* denotes equal contribution, determined in alphabetical order)
 
 CV
 ------
