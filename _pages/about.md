@@ -24,7 +24,4 @@ CV
 My CV can be found [here](https://hkustconnect-my.sharepoint.com/:b:/g/personal/hzhangco_connect_ust_hk/EVmKSxJ_XxdMnDKYydMHLyoBIpO_QtfK_wd6lBL3D7Jdlg)
 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
 
