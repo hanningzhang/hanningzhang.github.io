@@ -12,12 +12,13 @@ I am a final-year undergraduate at The Hong Kong University of Science and Techn
 
 Research Interest
 ------
-
+Natural Language Processing and Large Language Models
 
 Research Works
 ------
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+* Speciality vs Generality: An Empirical Study on Catastrophic Forgetting in Fine-tuning Foundation Models
+* Instructing Large Language Models to Say "I don't know"
+* InfoPattern: Unveiling Information Propagation Patterns in Social Media
 
 CV
 ------
