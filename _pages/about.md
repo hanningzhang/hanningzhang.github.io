@@ -16,15 +16,15 @@ Research Interest
 ------
 My research interests include Natural Language Processing (NLP) and Large Language Models (LLMs). Especially, I am excited about improving the factuality and mitigating the hallucination of the language models. I hope to specialize the language models into downstream tasks while maintaining their generality as much as possible. In addition, I am interested in combining NLP techniques into social analysis.
 
-Research Works
+Research Papers
 ------
-* [Speciality vs Generality: An Empirical Study on Catastrophic Forgetting in Fine-tuning Foundation Models]()
+* [Speciality vs Generality: An Empirical Study on Catastrophic Forgetting in Fine-tuning Foundation Models]() \
   Yong Lin\*, ..., **<ins>Hanning Zhang</ins>**, ..., Tong Zhang (* denotes equal contribution)
   
-* [Instructing Large Language Models to Say "I don't know"]()
+* [Instructing Large Language Models to Say "I don't know"]() \
   **<ins>Hanning Zhang\*</ins>**, Shizhe Diao\*, Yong Lin\*, Tong Zhang, Heng Ji (* denotes equal contribution)
   
-* [InfoPattern: Unveiling Information Propagation Patterns in Social Media]()
+* [InfoPattern: Unveiling Information Propagation Patterns in Social Media]() \
   Chi Han\*, Manling Li\*, Jialiang Xu\*, **<ins>Hanning Zhang\*</ins>**, Tarek Abdelzaher, Heng Ji (* denotes equal contribution, determined in alphabetical order)
 
 CV
