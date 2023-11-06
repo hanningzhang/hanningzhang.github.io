@@ -26,21 +26,22 @@ Research Experience
 
 Research Papers
 ------
-* [Speciality vs Generality: An Empirical Study on Catastrophic Forgetting in Fine-tuning Foundation Models]() \
-  Yong Lin\*, ..., **<ins>Hanning Zhang</ins>**, ..., Tong Zhang (* denotes equal contribution) \
-  (Work in Progress)
   
 * [Instructing Large Language Models to Say "I don't know"]() \
-  **<ins>Hanning Zhang\*</ins>**, Shizhe Diao\*, Yong Lin\*, Tong Zhang, Heng Ji (* denotes equal contribution) \
-  (Arxiv)
+  **<ins>Hanning Zhang\*</ins>**, Shizhe Diao\*, Yong Lin, Qing Lian, Yi R. Fung, Xingyao Wang, Yangyi Chen, Tong Zhang, Heng Ji. (* denotes equal contribution) \
+  To be submitted to NAACL-2024
   
 * [InfoPattern: Unveiling Information Propagation Patterns in Social Media]() \
   Chi Han\*, Manling Li\*, Jialiang Xu\*, **<ins>Hanning Zhang\*</ins>**, Tarek Abdelzaher, Heng Ji (* denotes equal contribution, determined in alphabetical order) \
   Submitted to AAAI 2024 Demonstrations Program
 
+* [Speciality vs Generality: An Empirical Study on Catastrophic Forgetting in Fine-tuning Foundation Models]() \
+  **<ins>Hanning Zhang</ins>** as one of the authors\
+  (Ongoing Project)
+  
 CV
 ------
-My CV can be found [here](https://hkustconnect-my.sharepoint.com/:b:/g/personal/hzhangco_connect_ust_hk/EVmKSxJ_XxdMnDKYydMHLyoBIpO_QtfK_wd6lBL3D7Jdlg)
+My CV can be found [here](https://hkustconnect-my.sharepoint.com/:b:/g/personal/hzhangco_connect_ust_hk/ETH-yc6gis5FlMV3LHKHju0ByuEv-48jGfJd2-8W6O_3-g?e=cX1bbS) 
 
 
 
