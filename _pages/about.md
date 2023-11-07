@@ -35,9 +35,6 @@ Research Papers
   Chi Han\*, Manling Li\*, Jialiang Xu\*, **<ins>Hanning Zhang\*</ins>**, Tarek Abdelzaher, Heng Ji (* denotes equal contribution, determined in alphabetical order) \
   Submitted to AAAI 2024 Demonstrations Program
 
-* [Speciality vs Generality: An Empirical Study on Catastrophic Forgetting in Fine-tuning Foundation Models]() \
-  **<ins>Hanning Zhang</ins>** as one of the authors\
-  (Ongoing Project)
   
 CV
 ------
