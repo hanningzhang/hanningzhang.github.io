@@ -27,8 +27,8 @@ Research Experience
 Research Papers
 ------
   
-* [Instructing Large Language Models to Say "I don't know"]() \
-  **<ins>Hanning Zhang\*</ins>**, Shizhe Diao\*, Yong Lin, Qing Lian, Yi R. Fung, Xingyao Wang, Yangyi Chen, Tong Zhang, Heng Ji. (* denotes equal contribution) \
+* [R-Tuning: Teaching Large Language Models to Refuse Unknown Questions](https://arxiv.org/abs/2311.09677) \
+  **<ins>Hanning Zhang\*</ins>**, Shizhe Diao\*, Yong Lin\*, Yi R. Fung, Qing Lian, Xingyao Wang, Yangyi Chen, Heng Ji, Tong Zhang. (* denotes equal contribution) \
   To be submitted to NAACL-2024
   
 * [InfoPattern: Unveiling Information Propagation Patterns in Social Media]() \
