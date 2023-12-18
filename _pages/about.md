@@ -29,16 +29,16 @@ Research Papers
   
 * [R-Tuning: Teaching Large Language Models to Refuse Unknown Questions](https://arxiv.org/abs/2311.09677) \
   **<ins>Hanning Zhang\*</ins>**, Shizhe Diao\*, Yong Lin\*, Yi R. Fung, Qing Lian, Xingyao Wang, Yangyi Chen, Heng Ji, Tong Zhang. (* denotes equal contribution) \
-  To be submitted to NAACL-2024
+  Submitted to NAACL-2024
   
 * [InfoPattern: Unveiling Information Propagation Patterns in Social Media]() \
   Chi Han\*, Manling Li\*, Jialiang Xu\*, **<ins>Hanning Zhang\*</ins>**, Tarek Abdelzaher, Heng Ji (* denotes equal contribution, determined in alphabetical order) \
-  Submitted to AAAI 2024 Demonstrations Program
+  Demo Report
 
 <!---
 CV
 ------
-My CV can be found [here](https://hkustconnect-my.sharepoint.com/:b:/g/personal/hzhangco_connect_ust_hk/ETH-yc6gis5FlMV3LHKHju0ByuEv-48jGfJd2-8W6O_3-g?e=cX1bbS) 
+My CV can be found [here]() 
 
 
  --->  
