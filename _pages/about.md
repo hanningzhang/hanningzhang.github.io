@@ -14,7 +14,15 @@ I am a final-year undergraduate at The Hong Kong University of Science and Techn
 
 Research Interest
 ------
-My research interests include Natural Language Processing (NLP) and Large Language Models (LLMs). Especially, I am excited about improving the factuality and mitigating the hallucination of the language models. I hope to specialize the language models into downstream tasks while maintaining their generality as much as possible. In addition, I am interested in combining NLP techniques into social analysis.
+My research interests include Natural Language Processing (NLP) and Large Language Models (LLMs). Especially, I am excited about improving the factuality and mitigating the hallucination of the language models.
+
+Education
+------
+* The Hong Kong University of Science and Technology (2020-2024) \
+  Bachelor of Science in Computer Science
+
+* University of Illinois Urbana-Champaign (2023) \
+  Exchange Program in Computer Science
 
 Research Experience
 ------
