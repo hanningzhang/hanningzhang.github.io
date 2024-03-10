@@ -18,10 +18,10 @@ My research interests include Natural Language Processing (NLP) and Large Langua
 
 Education
 ------
-* The Hong Kong University of Science and Technology (2020-2024) \
+* **The Hong Kong University of Science and Technology** (2020-2024) \
   Bachelor of Science in Computer Science
 
-* University of Illinois Urbana-Champaign (2023) \
+* **University of Illinois Urbana-Champaign** (2023) \
   Exchange Program in Computer Science
 
 Research Experience
