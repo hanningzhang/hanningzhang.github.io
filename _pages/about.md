@@ -10,7 +10,7 @@ redirect_from:
 
 I am a final-year undergraduate at The Hong Kong University of Science and Technology (HKUST), majoring in Computer Science. Currently, I am working with [Shizhe Diao](https://shizhediao.github.io/) and [Yong Lin](https://linyongver.github.io/yonglin.github.io/) at [StatML Lab](https://statml.hkust.edu.hk/), advised by Professor [Tong Zhang](http://tongzhang-ml.org/). In 2023 Spring, I had the privilege to exchange at the University of Illinois Urbana-Champaign (UIUC) and work at [Blender Lab](https://blender.cs.illinois.edu/), advised by [Manling Li](https://limanling.github.io/) and Professor [Heng Ji](https://blender.cs.illinois.edu/hengji.html).
 
-<span style="color:red">I am looking for a MS/PhD position in 2024 Fall!</span>
+
 
 Research Interest
 ------
