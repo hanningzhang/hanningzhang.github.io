@@ -40,7 +40,7 @@ Research Papers
   **NAACL-2024 Main Conference**
 
 * [Mitigating the Alignment Tax of RLHF](https://arxiv.org/abs/2309.06256) \
-  Yong Lin\*, Hangyu Lin\*, Wei Xiong\*, Shizhe Diao\*, Jianmeng Liu, Jipeng Zhang, Rui Pan, Haoxiang Wang, Wenbin Hu, **<ins>Hanning Zhang</ins>**, Hanze Dong, Renjie Pi, Han Zhao, Nan Jiang, Heng Ji, Yuan Yao, and Tong Zhang
+  Yong Lin\*, Hangyu Lin\*, Wei Xiong\*, Shizhe Diao\*, Jianmeng Liu, Jipeng Zhang, Rui Pan, Haoxiang Wang, Wenbin Hu, **<ins>Hanning Zhang</ins>**, Hanze Dong, Renjie Pi, Han Zhao, Nan Jiang, Heng Ji, Yuan Yao, and Tong Zhang \
   **ICML-2024 Submission**
   
 * [InfoPattern: Unveiling Information Propagation Patterns in Social Media](https://arxiv.org/abs/2311.15642) \
