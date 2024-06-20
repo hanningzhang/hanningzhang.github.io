@@ -37,14 +37,16 @@ Research Papers
   
 * [R-Tuning: Teaching Large Language Models to Refuse Unknown Questions](https://arxiv.org/abs/2311.09677) \
   **<ins>Hanning Zhang\*</ins>**, Shizhe Diao\*, Yong Lin\*, Yi R. Fung, Qing Lian, Xingyao Wang, Yangyi Chen, Heng Ji, Tong Zhang. (* denotes equal contribution) \
-  **NAACL-2024 Main Conference**
+  **NAACL-2024 (Oral)** \
+  <span style="color:red;">**Outstanding Paper Award**</span>
+
 
 * [Mitigating the Alignment Tax of RLHF](https://arxiv.org/abs/2309.06256) \
   Yong Lin\*, Hangyu Lin\*, Wei Xiong\*, Shizhe Diao\*, Jianmeng Liu, Jipeng Zhang, Rui Pan, Haoxiang Wang, Wenbin Hu, **<ins>Hanning Zhang</ins>**, Hanze Dong, Renjie Pi, Han Zhao, Nan Jiang, Heng Ji, Yuan Yao, and Tong Zhang \
-  **ICML-2024 Submission**
+  **ARR Submission**
   
 * [InfoPattern: Unveiling Information Propagation Patterns in Social Media](https://arxiv.org/abs/2311.15642) \
-  Chi Han\*, Manling Li\*, Jialiang Xu\*, **<ins>Hanning Zhang\*</ins>**, Tarek Abdelzaher, Heng Ji (* denotes equal contribution, determined in alphabetical order) \
+  Chi Han\*, Manling Li\*, Jialiang Xu\*, **<ins>Hanning Zhang\*</ins>**, Tarek Abdelzaher, Heng Ji (* denotes equal contribution) \
   **Demo Report**
 
 <!---
