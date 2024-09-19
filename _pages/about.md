@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year undergraduate at The Hong Kong University of Science and Technology (HKUST), majoring in Computer Science. Currently, I am working with [Shizhe Diao](https://shizhediao.github.io/) and [Yong Lin](https://linyongver.github.io/yonglin.github.io/) at [StatML Lab](https://statml.hkust.edu.hk/), advised by Professor [Tong Zhang](http://tongzhang-ml.org/). In 2023 Spring, I had the privilege to exchange at the University of Illinois Urbana-Champaign (UIUC) and work at [Blender Lab](https://blender.cs.illinois.edu/), advised by [Manling Li](https://limanling.github.io/) and Professor [Heng Ji](https://blender.cs.illinois.edu/hengji.html).
+I am a first-year MSCS student at University of Illinois Urbana-Champaign (UIUC). Previously, I graduated from The Hong Kong University of Science and Technology (HKUST), majoring in Computer Science. Currently, I am working with [Shizhe Diao](https://shizhediao.github.io/) and [Yong Lin](https://linyongver.github.io/yonglin.github.io/) at [StatML Lab](https://statml.hkust.edu.hk/), advised by Professor [Tong Zhang](http://tongzhang-ml.org/). In 2023 Spring, I had the privilege to exchange at the University of Illinois Urbana-Champaign (UIUC) and work at [Blender Lab](https://blender.cs.illinois.edu/), advised by [Manling Li](https://limanling.github.io/) and Professor [Heng Ji](https://blender.cs.illinois.edu/hengji.html).
 
 
 
@@ -18,6 +18,9 @@ My research interests include Natural Language Processing (NLP) and Large Langua
 
 Education
 ------
+* **University of Illinois Urbana-Champaign** (2024-2026) \
+  Master of Science in Computer Science
+  
 * **The Hong Kong University of Science and Technology** (2020-2024) \
   Bachelor of Science in Computer Science
 
@@ -38,12 +41,12 @@ Research Papers
 * [R-Tuning: Teaching Large Language Models to Refuse Unknown Questions](https://arxiv.org/abs/2311.09677) \
   **<ins>Hanning Zhang\*</ins>**, Shizhe Diao\*, Yong Lin\*, Yi R. Fung, Qing Lian, Xingyao Wang, Yangyi Chen, Heng Ji, Tong Zhang. (* denotes equal contribution) \
   **NAACL-2024 (Oral)** \
-  <span style="color:red;">**Outstanding Paper Award**</span>
+  <span style="color:red;">**Outstanding Paper Award, 6/2434 = 0.25%**</span>
 
 
 * [Mitigating the Alignment Tax of RLHF](https://arxiv.org/abs/2309.06256) \
   Yong Lin\*, Hangyu Lin\*, Wei Xiong\*, Shizhe Diao\*, Jianmeng Liu, Jipeng Zhang, Rui Pan, Haoxiang Wang, Wenbin Hu, **<ins>Hanning Zhang</ins>**, Hanze Dong, Renjie Pi, Han Zhao, Nan Jiang, Heng Ji, Yuan Yao, and Tong Zhang \
-  **ARR Submission**
+  **EMNLP-2024 (Main)**
   
 * [InfoPattern: Unveiling Information Propagation Patterns in Social Media](https://arxiv.org/abs/2311.15642) \
   Chi Han\*, Manling Li\*, Jialiang Xu\*, **<ins>Hanning Zhang\*</ins>**, Tarek Abdelzaher, Heng Ji (* denotes equal contribution) \
