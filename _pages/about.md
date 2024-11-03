@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year MSCS student at University of Illinois Urbana-Champaign (UIUC). Previously, I graduated from The Hong Kong University of Science and Technology (HKUST), majoring in Computer Science. Currently, I am working with [Shizhe Diao](https://shizhediao.github.io/) and [Yong Lin](https://linyongver.github.io/yonglin.github.io/) at [StatML Lab](https://statml.hkust.edu.hk/), advised by Professor [Tong Zhang](http://tongzhang-ml.org/). In 2023 Spring, I had the privilege to exchange at the University of Illinois Urbana-Champaign (UIUC) and work at [Blender Lab](https://blender.cs.illinois.edu/), advised by [Manling Li](https://limanling.github.io/) and Professor [Heng Ji](https://blender.cs.illinois.edu/hengji.html).
+I am a first-year MSCS student at the University of Illinois Urbana-Champaign (UIUC). Previously, I graduated from The Hong Kong University of Science and Technology (HKUST) in 2024, majoring in Computer Science. Previously, I worked as a research intern on the topic of LLM hallucination and alignment, advised by Professor [Tong Zhang](http://tongzhang-ml.org/). In 2023 Summer, I had the privilege to work as a research intern at [Blender Lab](https://blender.cs.illinois.edu/), advised by Professor [Heng Ji](https://blender.cs.illinois.edu/hengji.html).
 
 
 
 Research Interest
 ------
-My research interests include Natural Language Processing (NLP) and Large Language Models (LLMs). Especially, I am excited about improving the factuality and mitigating the hallucination of the language models.
+My research interests include Natural Language Processing (NLP) and Large Language Models (LLMs). I have a broad interest in LLM alignment. I am now working on Reward Modeling for Mathematical Reasoning. I also worked on LLM hallucination in the past.
 
 Education
 ------
@@ -27,14 +27,6 @@ Education
 * **University of Illinois Urbana-Champaign** (2023) \
   Exchange Program in Computer Science
 
-Research Experience
-------
-* Research Assistant at Blender Lab, UIUC \
-  Advisor: Manling Li, Professor Heng Ji
-
-* Research Assistant at StatML Lab, HKUST \
-  Advisor: Shizhe Diao, Yong Lin, Professor Tong Zhang
-
 Research Papers
 ------
   
@@ -43,7 +35,9 @@ Research Papers
   **NAACL-2024 (Oral)** \
   <span style="color:red;">**Outstanding Paper Award, 6/2434 = 0.25%**</span>
 
-
+* [Entropy-Regularized Process Reward Model](https://hanningzhang.github.io/math-prm/) \
+  **<ins>Hanning Zhang\*</ins>**, Pengcheng Wang\*, Shizhe Diao, Yong Lin, Rui Pan, Hanze Dong, Dylan Zhang, Pavlo Molchanov, Tong Zhang. (* denotes equal contribution) \
+  
 * [Mitigating the Alignment Tax of RLHF](https://arxiv.org/abs/2309.06256) \
   Yong Lin\*, Hangyu Lin\*, Wei Xiong\*, Shizhe Diao\*, Jianmeng Liu, Jipeng Zhang, Rui Pan, Haoxiang Wang, Wenbin Hu, **<ins>Hanning Zhang</ins>**, Hanze Dong, Renjie Pi, Han Zhao, Nan Jiang, Heng Ji, Yuan Yao, and Tong Zhang \
   **EMNLP-2024 (Main)**
