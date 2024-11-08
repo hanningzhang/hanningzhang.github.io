@@ -36,7 +36,7 @@ Research Papers
   <span style="color:red;">**Outstanding Paper Award, 6/2434 = 0.25%**</span>
 
 * [Entropy-Regularized Process Reward Model](https://hanningzhang.github.io/math-prm/) \
-  **<ins>Hanning Zhang\*</ins>**, Pengcheng Wang\*, Shizhe Diao, Yong Lin, Rui Pan, Hanze Dong, Dylan Zhang, Pavlo Molchanov, Tong Zhang. (* denotes equal contribution) \
+  **<ins>Hanning Zhang\*</ins>**, Pengcheng Wang\*, Shizhe Diao, Yong Lin, Rui Pan, Hanze Dong, Dylan Zhang, Pavlo Molchanov, Tong Zhang. (* denotes equal contribution) 
   
 * [Mitigating the Alignment Tax of RLHF](https://arxiv.org/abs/2309.06256) \
   Yong Lin\*, Hangyu Lin\*, Wei Xiong\*, Shizhe Diao\*, Jianmeng Liu, Jipeng Zhang, Rui Pan, Haoxiang Wang, Wenbin Hu, **<ins>Hanning Zhang</ins>**, Hanze Dong, Renjie Pi, Han Zhao, Nan Jiang, Heng Ji, Yuan Yao, and Tong Zhang \
