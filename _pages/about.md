@@ -27,6 +27,14 @@ Education
 * **University of Illinois Urbana-Champaign** (2023) \
   Exchange Program in Computer Science
 
+Open-Source Contribution
+------
+**RLHFlow/RLHF-Reward-Modeling**
+
+(https://github.com/RLHFlow/RLHF-Reward-Modeling)
+
+I am the main contributor to the **math-rm** project, where we train process-supervised reward (PRM) and outcome-supervised reward (ORM) using the next-token prediction. We open-source the data, code, hyper-parameter, and model for a robust recipe that is easy to reproduce.
+
 Research Papers
 ------
   
