@@ -29,10 +29,15 @@ Education
 
 Open-Source Contribution
 ------
-**RLHFlow/RLHF-Reward-Modeling**
 
-(https://github.com/RLHFlow/RLHF-Reward-Modeling)
+**RLHF-Reward-Modeling**
 
+<a href="https://github.com/RLHFlow/RLHF-Reward-Modeling" target="_blank">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Icon" width="24" height="24">
+  <span>https://github.com/RLHFlow/RLHF-Reward-Modeling</span>
+</a> 
+
+\
 I am the main contributor to the **math-rm** project, where we train process-supervised reward (PRM) and outcome-supervised reward (ORM) using the next-token prediction. We open-source the data, code, hyper-parameter, and model for a robust recipe that is easy to reproduce.
 
 Research Papers
