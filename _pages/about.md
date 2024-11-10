@@ -16,28 +16,17 @@ Research Interest
 ------
 My research interests include Natural Language Processing (NLP) and Large Language Models (LLMs). I have a broad interest in LLM alignment. I am now working on Reward Modeling for Mathematical Reasoning. I also worked on LLM hallucination in the past.
 
-Education
-------
-* **University of Illinois Urbana-Champaign** (2024-2026) \
-  Master of Science in Computer Science
-  
-* **The Hong Kong University of Science and Technology** (2020-2024) \
-  Bachelor of Science in Computer Science
-
-* **University of Illinois Urbana-Champaign** (2023) \
-  Exchange Program in Computer Science
 
 Open-Source Contribution
 ------
 
 **RLHF-Reward-Modeling**
-
 <a href="https://github.com/RLHFlow/RLHF-Reward-Modeling" target="_blank">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Icon" width="24" height="24">
   <span>https://github.com/RLHFlow/RLHF-Reward-Modeling</span>
 </a> 
 
-\
+
 I am the main contributor to the **math-rm** project, where we train process-supervised reward (PRM) and outcome-supervised reward (ORM) using the next-token prediction. We open-source the data, code, hyper-parameter, and model for a robust recipe that is easy to reproduce.
 
 Research Papers
@@ -59,10 +48,14 @@ Research Papers
   Chi Han\*, Manling Li\*, Jialiang Xu\*, **<ins>Hanning Zhang\*</ins>**, Tarek Abdelzaher, Heng Ji (* denotes equal contribution) \
   **Demo Report**
 
-<!---
-CV
+
+Education
 ------
-My CV can be found [here]() 
+* **University of Illinois Urbana-Champaign** (2024-2026) \
+  Master of Science in Computer Science
+  
+* **The Hong Kong University of Science and Technology** (2020-2024) \
+  Bachelor of Science in Computer Science
 
-
- --->  
+* **University of Illinois Urbana-Champaign** (2023) \
+  Exchange Program in Computer Science
