@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year MSCS student at the University of Illinois Urbana-Champaign (UIUC). Previously, I graduated from The Hong Kong University of Science and Technology (HKUST) in 2024, majoring in Computer Science. Previously, I worked as a research intern on the topic of LLM hallucination and alignment, advised by Professor [Tong Zhang](http://tongzhang-ml.org/). In 2023 Summer, I had the privilege to work as a research intern at [Blender Lab](https://blender.cs.illinois.edu/), advised by Professor [Heng Ji](https://blender.cs.illinois.edu/hengji.html).
+I am a first-year MSCS student at the University of Illinois Urbana-Champaign (UIUC), advised by Professor [Tong Zhang](http://tongzhang-ml.org/). Previously, I graduated from The Hong Kong University of Science and Technology (HKUST) in 2024, majoring in Computer Science. Previously, I worked as a research intern on the topic of LLM hallucination and alignment, advised by Professor [Tong Zhang](http://tongzhang-ml.org/). In 2023 Summer, I had the privilege to work as a research intern at [Blender Lab](https://blender.cs.illinois.edu/), advised by Professor [Heng Ji](https://blender.cs.illinois.edu/hengji.html).
 
 
 
@@ -23,7 +23,7 @@ Open-Source Contribution
 **RLHF-Reward-Modeling**
 <a href="https://github.com/RLHFlow/RLHF-Reward-Modeling" target="_blank">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Icon" width="24" height="24">
-  <span>https://github.com/RLHFlow/RLHF-Reward-Modeling</span>
+  <span>https://github.com/RLHFlow/RLHF-Reward-Modeling (1K Stars)</span>
 </a> 
 
 
@@ -37,8 +37,13 @@ Research Papers
   **NAACL-2024 (Oral)** \
   <span style="color:red;">**Outstanding Paper Award, 6/2434 = 0.25%**</span>
 
-* [Entropy-Regularized Process Reward Model](https://hanningzhang.github.io/math-prm/) \
-  **<ins>Hanning Zhang\*</ins>**, Pengcheng Wang\*, Shizhe Diao, Yong Lin, Rui Pan, Hanze Dong, Dylan Zhang, Pavlo Molchanov, Tong Zhang. (* denotes equal contribution) 
+* [Entropy-Regularized Process Reward Model]() \
+  **<ins>Hanning Zhang\*</ins>**, Pengcheng Wang\*, Shizhe Diao, Yong Lin, Rui Pan, Hanze Dong, Dylan Zhang, Pavlo Molchanov, Tong Zhang. (* denotes equal contribution) \
+  **Under Review**
+  
+* [Towards understanding the efficiency of ensemble in fine-tuning]() \
+  Yifan Hao, Xingyuan Pan, **<ins>Hanning Zhang</ins>**, Chenlu Ye, Rui Pan, Tong Zhang. \
+  **Under Review**
   
 * [Mitigating the Alignment Tax of RLHF](https://arxiv.org/abs/2309.06256) \
   Yong Lin\*, Hangyu Lin\*, Wei Xiong\*, Shizhe Diao\*, Jianmeng Liu, Jipeng Zhang, Rui Pan, Haoxiang Wang, Wenbin Hu, **<ins>Hanning Zhang</ins>**, Hanze Dong, Renjie Pi, Han Zhao, Nan Jiang, Heng Ji, Yuan Yao, and Tong Zhang \
