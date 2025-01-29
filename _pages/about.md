@@ -37,8 +37,12 @@ Research Papers
   **NAACL-2024 (Oral)** \
   <span style="color:red;">**Outstanding Paper Award, 6/2434 = 0.25%**</span>
 
-* [Entropy-Regularized Process Reward Model]() \
+* [Entropy-Regularized Process Reward Model](https://arxiv.org/abs/2412.11006) \
   **<ins>Hanning Zhang\*</ins>**, Pengcheng Wang\*, Shizhe Diao, Yong Lin, Rui Pan, Hanze Dong, Dylan Zhang, Pavlo Molchanov, Tong Zhang. (* denotes equal contribution) \
+  **Under Review**
+
+* [RAG-Reward: Optimizing RAG with Reward Modeling and RLHF](https://arxiv.org/abs/2501.13264) \
+  **<ins>Hanning Zhang</ins>**, Juntong Song, Juno Zhu, Yuanhao Wu, Tong Zhang, Cheng Niu \
   **Under Review**
   
 * [Towards understanding the efficiency of ensemble in fine-tuning]() \
