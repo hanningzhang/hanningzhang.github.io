@@ -23,7 +23,8 @@ Open-Source Contribution
 **RLHF-Reward-Modeling**
 <a href="https://github.com/RLHFlow/RLHF-Reward-Modeling" target="_blank">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Icon" width="24" height="24">
-  <span>https://github.com/RLHFlow/RLHF-Reward-Modeling (1.5K Stars)</span>
+  <span>https://github.com/RLHFlow/RLHF-Reward-Modeling</span>
+  <span style="color:red;">**1.5K Stars**</span>
 </a> 
 
 
