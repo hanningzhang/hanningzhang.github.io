@@ -8,13 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year MSCS (thesis-track) student at the University of Illinois Urbana-Champaign (UIUC), advised by Professor [Tong Zhang](http://tongzhang-ml.org/). Previously, I graduated from The Hong Kong University of Science and Technology (HKUST) in 2024, majoring in Computer Science. Previously, I worked as a research intern on the topic of LLM hallucination and alignment, advised by Professor [Tong Zhang](http://tongzhang-ml.org/). In 2023 Summer, I had the privilege to work as a research intern at [Blender Lab](https://blender.cs.illinois.edu/), advised by Professor [Heng Ji](https://blender.cs.illinois.edu/hengji.html).
+I am a second-year MSCS (thesis-track) student at the University of Illinois Urbana-Champaign (UIUC), advised by Professor [Tong Zhang](http://tongzhang-ml.org/). Previously, I graduated from The Hong Kong University of Science and Technology (HKUST) in 2024, majoring in Computer Science. I also had the privilege to work as a research intern with Professor [Heng Ji](https://blender.cs.illinois.edu/hengji.html) on the topic of LLM hallucination and alignment.
 
 
 
 Research Interest
 ------
-My research interests include Natural Language Processing (NLP) and Large Language Models (LLMs). I have a broad interest in LLM alignment. I am now working on Reward Modeling for Mathematical Reasoning. I also worked on LLM hallucination in the past.
+My research interests include Natural Language Processing (NLP) and Large Language Models (LLMs) with a focus on alignment and reasoning. 
+
+For the reasoning topic, I had worked on **Process Reward Model**[[1]](https://arxiv.org/abs/2412.11006)[[2]](https://github.com/RLHFlow/RLHF-Reward-Modeling/tree/main/math-rm)[[3]](https://arxiv.org/abs/2506.17533), **Zero-style DPO Training for Reasoning**[[4]](https://efficient-unicorn-451.notion.site/Online-DPO-R1-Unlocking-Effective-Reasoning-Without-the-PPO-Overhead-1908b9a70e7b80c3bc83f4cf04b2f175), **Self-Rewarding for Reasoning**[[5]](https://arxiv.org/abs/2502.19613), and **Dynamic Sample Allocation Strategy in RL for Reasoning**[[6]](https://arxiv.org/abs/2505.02391).
+
+For the alignment topic, I had worked on **Hallucination Mitigation via Refusal-Aware Tuning**[[7]](https://arxiv.org/abs/2311.09677), **Model Adaptive Merging and Ensembing for Generalization**[[8]](https://arxiv.org/abs/2506.01901)[[9]](https://arxiv.org/abs/2309.06256), **Data Reweighting for LLM Training**[[10]](https://arxiv.org/abs/2406.19976), and **Reward Modeling for Open-ended Long-context Generation**[[11]](https://arxiv.org/abs/2501.13264).
+
+Recently, I have been working on **Lean4 for Physics**.
 
 
 Open-Source Contribution
@@ -79,7 +85,7 @@ RL](https://arxiv.org/abs/2505.02391) \
 Internship
 ------
 <div>
-  <strong>Amazon Rufus Team</strong>
+  <strong>Amazon, Rufus Team</strong>
   <span style="float: right;">May 2025 - Aug 2025</span>
   <br>
   Applied Scientist Intern
