@@ -48,7 +48,7 @@ Generation](https://arxiv.org/abs/2501.13264) \
   **Transaction of Machine Learning (TMLR)**
   
 * [Self-rewarding Correction for Mathematical Reasoning](https://arxiv.org/abs/2502.19613) \
-  Wei Xiong*, **<Hanning Zhang\***, Chenlu Ye*, Lichang Chen, Nan Jiang, Tong Zhang. \
+  Wei Xiong\*, <strong><ins>Hanning Zhang\*</ins></strong>, Chenlu Ye\*, Lichang Chen, Nan Jiang, Tong Zhang. \
   **Under Review**
 
 * [Online-DPO-R1: Unlocking Effective Reasoning Without the PPO Overhead](https://efficient-unicorn-451.notion.site/Online-DPO-R1-Unlocking-Effective-Reasoning-Without-the-PPO-Overhead-1908b9a70e7b80c3bc83f4cf04b2f175) \
@@ -57,15 +57,15 @@ Generation](https://arxiv.org/abs/2501.13264) \
 
 * [Optimizing Chain-of-Thought Reasoners via Gradient Variance Minimization in Rejection Sampling and
 RL](https://arxiv.org/abs/2505.02391) \
-  Jiarui Yao*, Yifan Hao*, **<ins>Hanning Zhang</ins>**, Hanze Dong, Wei Xiong, Nan Jiang, Tong Zhang. \
+  Jiarui Yao*, Yifan Hao*, <strong><ins>Hanning Zhang</ins></strong>, Hanze Dong, Wei Xiong, Nan Jiang, Tong Zhang. \
   **NeurIPS-2025**
   
 * [ScaleBiO: Scalable Bilevel Optimization for LLM Data Reweighting](https://arxiv.org/abs/2406.19976) \
-  Rui Pan*, Dylan Zhang*, **<ins>Hanning Zhang*</ins>**, Xingyuan Pan*, Minrui Xu, Jipeng Zhang, Renjie Pi, Xiaoyu Wang, Tong Zhang. \
+  Rui Pan*, Dylan Zhang*, <strong><ins>Hanning Zhang\*</ins></strong>, Xingyuan Pan*, Minrui Xu, Jipeng Zhang, Renjie Pi, Xiaoyu Wang, Tong Zhang. \
   **ACL-2025**
   
 * [Understanding Overadaptation in Supervised Fine-Tuning: The Role of Ensemble Methods](https://arxiv.org/abs/2506.01901) \
-  Yifan Hao*, Xingyuan Pan*, **<ins>Hanning Zhang*</ins>**, Chenlu Ye, Rui Pan, Tong Zhang. \
+  Yifan Hao*, Xingyuan Pan*, <strong><ins>Hanning Zhang\*</ins></strong>, Chenlu Ye, Rui Pan, Tong Zhang. \
   **ICML-2025**
   
 * [Towards Better Generalization via Distributional Input Projection Network](https://arxiv.org/abs/2506.04690) \
