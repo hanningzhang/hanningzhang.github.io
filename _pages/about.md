@@ -48,7 +48,7 @@ Generation](https://arxiv.org/abs/2501.13264) \
   **Transaction of Machine Learning (TMLR)**
   
 * [Self-rewarding Correction for Mathematical Reasoning](https://arxiv.org/abs/2502.19613) \
-  Wei Xiong*, **<ins>Hanning Zhang*</ins>**, Chenlu Ye*, Lichang Chen, Nan Jiang, Tong Zhang. \
+  Wei Xiong*, **<Hanning Zhang\***, Chenlu Ye*, Lichang Chen, Nan Jiang, Tong Zhang. \
   **Under Review**
 
 * [Online-DPO-R1: Unlocking Effective Reasoning Without the PPO Overhead](https://efficient-unicorn-451.notion.site/Online-DPO-R1-Unlocking-Effective-Reasoning-Without-the-PPO-Overhead-1908b9a70e7b80c3bc83f4cf04b2f175) \
