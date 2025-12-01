@@ -10,7 +10,7 @@ redirect_from:
 
 I am a second-year MSCS (thesis-track) student at the University of Illinois Urbana-Champaign (UIUC), advised by Professor [Tong Zhang](http://tongzhang-ml.org/). Previously, I graduated from The Hong Kong University of Science and Technology (HKUST) in 2024, majoring in Computer Science. I also had the privilege to work as a research intern with Professor [Heng Ji](https://blender.cs.illinois.edu/hengji.html) on the topic of LLM hallucination and alignment.
 
-This webpage is last updated on **2025/11/11.**
+This webpage is last updated on **2025/12/01.**
 
 Research Interest
 ------
