@@ -38,11 +38,14 @@ I am the main contributor to the **math-rm** project, where we train process-sup
 
 Selected Research Papers (* denotes equal contribution)
 ------
-
+* [ScaleML-Prover: Advancing Automatic Theorem Proving for Physics]() \
+  **<ins>Hanning Zhang\*</ins>**, Ruida Wang\*, Rui Pan*, Ke Lin, Wenyuan Wang, Qingyun Wang, Tong Zhang \
+  **Under Review at ACL 2026**
+  
 * [OpenGenAlign: A Preference Dataset for Trustworthy Reward Modeling in Open-Ended, Long-Context
 Generation](https://arxiv.org/abs/2501.13264) \
   **<ins>Hanning Zhang</ins>**, Juntong Song, Juno Zhu, Yuanhao Wu, Tong Zhang, Cheng Niu \
-  **Under Review at ACL ARR**
+  **Under Review at ACL 2026**
   
 * [R-Tuning: Teaching Large Language Models to Refuse Unknown Questions](https://arxiv.org/abs/2311.09677) \
   **<ins>Hanning Zhang\*</ins>**, Shizhe Diao\*, Yong Lin\*, Yi R. Fung, Qing Lian, Xingyao Wang, Yangyi Chen, Heng Ji, Tong Zhang. (* denotes equal contribution) \
@@ -63,24 +66,25 @@ Generation](https://arxiv.org/abs/2501.13264) \
 
 * [Optimizing Chain-of-Thought Reasoners via Gradient Variance Minimization in Rejection Sampling and
 RL](https://arxiv.org/abs/2505.02391) \
-  Jiarui Yao*, Yifan Hao*, <strong><ins>Hanning Zhang</ins></strong>, Hanze Dong, Wei Xiong, Nan Jiang, Tong Zhang. \
+  Jiarui Yao\*, Yifan Hao\*, <strong><ins>Hanning Zhang</ins></strong>, Hanze Dong, Wei Xiong, Nan Jiang, Tong Zhang. \
   **NeurIPS-2025**
   
 * [ScaleBiO: Scalable Bilevel Optimization for LLM Data Reweighting](https://arxiv.org/abs/2406.19976) \
-  Rui Pan*, Dylan Zhang*, <strong><ins>Hanning Zhang\*</ins></strong>, Xingyuan Pan*, Minrui Xu, Jipeng Zhang, Renjie Pi, Xiaoyu Wang, Tong Zhang. \
+  Rui Pan\*, Dylan Zhang\*, <strong><ins>Hanning Zhang\*</ins></strong>, Xingyuan Pan*, Minrui Xu, Jipeng Zhang, Renjie Pi, Xiaoyu Wang, Tong Zhang. \
   **ACL-2025**
   
 * [Understanding Overadaptation in Supervised Fine-Tuning: The Role of Ensemble Methods](https://arxiv.org/abs/2506.01901) \
-  Yifan Hao*, Xingyuan Pan*, <strong><ins>Hanning Zhang\*</ins></strong>, Chenlu Ye, Rui Pan, Tong Zhang. \
+  Yifan Hao\*, Xingyuan Pan\*, <strong><ins>Hanning Zhang\*</ins></strong>, Chenlu Ye, Rui Pan, Tong Zhang. \
   **ICML-2025**
-  
-* [Towards Better Generalization via Distributional Input Projection Network](https://arxiv.org/abs/2506.04690) \
-  Yifan Hao*, Yanxin Lu*, **<ins>Hanning Zhang</ins>**, Xinwei Shen, Tong Zhang. \
-  **Under Review**
-  
+
 * [Mitigating the Alignment Tax of RLHF](https://arxiv.org/abs/2309.06256) \
   Yong Lin\*, Hangyu Lin\*, Wei Xiong\*, Shizhe Diao\*, Jianmeng Liu, Jipeng Zhang, Rui Pan, Haoxiang Wang, Wenbin Hu, **<ins>Hanning Zhang</ins>**, Hanze Dong, Renjie Pi, Han Zhao, Nan Jiang, Heng Ji, Yuan Yao, and Tong Zhang \
   **EMNLP-2024 (Main)**
+  
+* [Towards Better Generalization via Distributional Input Projection Network](https://arxiv.org/abs/2506.04690) \
+  Yifan Hao\*, Yanxin Lu\*,  <strong><ins>Hanning Zhang</ins></strong>, Xinwei Shen, Tong Zhang. \
+  **Under Review at ICLR 2026**
+  
   
 Internship
 ------
