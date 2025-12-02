@@ -96,6 +96,12 @@ Internship
   <span style="float: right;">Palo Alto, CA</span>
 </div>
 
+Awards
+------
+Outstanding Paper Award at NAACL 2024 (6/2434 = 0.25%)
+
+Siebel Scholar, Class of 2026 ($35,000 scholarship, 1 of 76 students around the world)
+
 Education
 ------
 * **University of Illinois Urbana-Champaign** (2024-2026) \
