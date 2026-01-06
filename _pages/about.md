@@ -39,7 +39,7 @@ I am the main contributor to the **math-rm** project, where we train process-sup
 Selected Research Papers (* denotes equal contribution)
 ------
 * [ScaleML-Prover: Advancing Automatic Theorem Proving for Physics]() \
-  **<ins>Hanning Zhang\*</ins>**, Ruida Wang\*, Rui Pan*, Ke Lin, Wenyuan Wang, Qingyun Wang, Tong Zhang \
+  **<ins>Hanning Zhang\*</ins>**, Ruida Wang\*, Rui Pan, Wenyuan Wang, BingXu Meng, Tong Zhang \
   **Under Review at ACL 2026**
   
 * [OpenGenAlign: A Preference Dataset for Trustworthy Reward Modeling in Open-Ended, Long-Context
