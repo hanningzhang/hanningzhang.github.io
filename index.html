@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hanning Zhang</title>
+<meta name="description" content="Hanning Zhang — PhD student in Computer Science at UC Santa Barbara. Research on selective tool usage, efficient agent systems, agentic RL, LLM reasoning and alignment.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<script>
+  try { var t = localStorage.getItem('theme'); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
+</script>
+</head>
+<body>
+<div class="blob b1"></div><div class="blob b2"></div>
+
+<header class="nav">
+  <a class="brand" href="#top">Hanning Zhang</a>
+  <nav>
+    <a href="#news">News</a>
+    <a href="#publications">Publications</a>
+    <a href="#experience">Experience</a>
+    <a href="#education">Education</a>
+    <a href="#awards">Awards</a>
+    <button id="theme" aria-label="Toggle theme" title="Toggle theme">◐</button>
+  </nav>
+</header>
+
+<main id="top">
+  <section class="hero">
+    <img class="avatar" src="images/profile.jpg" alt="Hanning Zhang">
+    <div class="hero-text">
+      <p class="eyebrow">PhD student · Computer Science · UC Santa Barbara</p>
+      <h1>Hanning Zhang</h1>
+      <p class="lead">
+        I work on <b>selective tool usage</b>, <b>efficient agent systems</b> and <b>agentic RL</b>.
+        Before that, I worked on <b>LLM reasoning</b> and <b>alignment</b> — process reward models,
+        self-rewarding correction, and teaching models to say <i>“I don’t know”</i>.
+      </p>
+      <p>
+        I'm a first-year PhD student at <b>UC Santa Barbara</b>, advised by
+        <a href="https://zhendong-ucsb.github.io/" target="_blank" rel="noopener">Prof. Zhen Dong</a>.
+        I received my M.S. from <b>UIUC</b> working with
+        <a href="https://tongzhang-ml.org/" target="_blank" rel="noopener">Prof. Tong Zhang</a>,
+        and my B.S. from <b>HKUST</b>.
+      </p>
+      <div class="links">
+        <a class="btn primary" href="files/cv_hanning_zhang.pdf" target="_blank" rel="noopener">CV</a>
+        <a class="btn" href="mailto:hanningzhang@ucsb.edu">Email</a>
+        <a class="btn" href="https://scholar.google.com/citations?user=T-JDNUoAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener">Google Scholar</a>
+        <a class="btn" href="https://github.com/hanningzhang" target="_blank" rel="noopener">GitHub</a>
+      </div>
+    </div>
+  </section>
+
+  <section id="news">
+    <h2>News</h2>
+    <ul class="news">
+      <li><span class="date">Sep 2026</span> Started my PhD in Computer Science at <b>UC Santa Barbara</b>. 🎓</li>
+      <li><span class="date">2026</span> Honored as a <b>Siebel Scholar</b>, Class of 2026. 🏅</li>
+      <li><span class="date">2026</span> <b>PhysProver</b> accepted to <b>Findings of EMNLP 2026</b>.</li>
+      <li><span class="date">2026</span> <b>OpenGenAlign</b> accepted to <b>Findings of ACL 2026</b>.</li>
+      <li><span class="date">Summer 2026</span> Applied Scientist Intern at <b>Amazon</b>, Palo Alto — multi-task &amp; multi-domain learning for Ads.</li>
+      <li><span class="date">Jun 2026</span> Joined the ZenAI Lab at UCSB; working on an on-device orchestrator with NVIDIA collaborators.</li>
+      <li><span class="date">2025</span> Gradient Variance Minimization (GVM) accepted to <b>NeurIPS 2025</b>; Entropy-Regularized PRM accepted to <b>TMLR</b>.</li>
+      <li><span class="date">2025</span> ScaleBiO accepted to <b>ACL 2025</b>; Overadaptation in SFT accepted to <b>ICML 2025</b>.</li>
+      <li><span class="date">Summer 2025</span> Applied Scientist Intern at <b>Amazon</b>, Palo Alto — reward models for ML engineering.</li>
+    </ul>
+  </section>
+
+  <section id="publications">
+    <h2>Publications</h2>
+    <p class="note">* denotes equal contribution. Sorted roughly by recency.</p>
+    <div id="pubs" class="pubs"></div>
+  </section>
+
+  <section id="experience">
+    <h2>Experience</h2>
+    <div class="timeline">
+      <div class="item"><div class="when">May – Aug 2026</div>
+        <div><h3>Applied Scientist Intern, Amazon</h3><p class="sub">Palo Alto, CA · Supervisor: Dr. Lin Zhong</p>
+        <p>Multi-task and multi-domain learning for Ads.</p></div></div>
+      <div class="item"><div class="when">Jun 2026 – Now</div>
+        <div><h3>Research Assistant, ZenAI Lab — UC Santa Barbara</h3><p class="sub">Supervisor: Prof. Zhen Dong</p>
+        <p>Built <i>Hybrid Intelligence</i>, an on-device orchestrator that delegates to cloud experts, with NVIDIA collaborators.</p></div></div>
+      <div class="item"><div class="when">May – Aug 2025</div>
+        <div><h3>Applied Scientist Intern, Amazon</h3><p class="sub">Palo Alto, CA · Supervisor: Dr. Liang Qiu</p>
+        <p>Reward models for machine learning engineering.</p></div></div>
+      <div class="item"><div class="when">Mar 2024 – May 2026</div>
+        <div><h3>Research Assistant, ScaleML Lab — UIUC</h3><p class="sub">Supervisor: Prof. Tong Zhang</p>
+        <p>LLM alignment, generalization and reasoning: process reward modeling, ensemble methods against catastrophic forgetting, and data/training-efficient reasoning. Published at TMLR, ACL, EMNLP, ICML and NeurIPS; open-sourced several training pipelines and datasets.</p></div></div>
+      <div class="item"><div class="when">May 2023 – Mar 2024</div>
+        <div><h3>Research Intern, Blender Lab — HKUST &amp; UIUC</h3><p class="sub">Supervisors: Prof. Heng Ji, Prof. Tong Zhang</p>
+        <p>Proposed Refusal-Aware Fine-tuning (R-Tuning) to teach LLMs to say “I don’t know”, improving factuality and calibration.</p></div></div>
+    </div>
+  </section>
+
+  <section id="education">
+    <h2>Education</h2>
+    <div class="timeline">
+      <div class="item"><div class="when">Sep 2026 –</div>
+        <div><h3>University of California, Santa Barbara</h3><p class="sub">PhD in Computer Science</p></div></div>
+      <div class="item"><div class="when">Aug 2024 – May 2026</div>
+        <div><h3>University of Illinois Urbana-Champaign</h3><p class="sub">MS in Computer Science (thesis track)</p></div></div>
+      <div class="item"><div class="when">Sep 2020 – Jun 2024</div>
+        <div><h3>The Hong Kong University of Science and Technology</h3><p class="sub">BS in Computer Science, First Class Honors</p></div></div>
+    </div>
+  </section>
+
+  <section id="awards">
+    <h2>Selected Awards</h2>
+    <ul class="awards">
+      <li>🏅 <b>Siebel Scholar</b>, Class of 2026 ($35,000)</li>
+      <li>🏆 <b>Outstanding Paper Award</b>, NAACL 2024 (6 / 2434 ≈ 0.25%)</li>
+    </ul>
+  </section>
+</main>
+
+<footer>
+  <span>© <span id="year"></span> Hanning Zhang</span>
+  <a href="#top">Back to top ↑</a>
+</footer>
+
+<script src="pubs.js"></script>
+<script>
+  const esc = s => s.replace(/&/g,'&amp;').replace(/</g,'&lt;');
+  const authors = a => esc(a).replace(/Hanning Zhang\*?/g, m => `<b class="me">${m}</b>`);
+  const box = document.getElementById('pubs');
+  box.innerHTML = PUBS.map(p => `
+    <article class="pub">
+      <div class="thumb ${p.img ? '' : 'noimg'}">
+        ${p.img ? `<img loading="lazy" src="${p.img}" alt="${esc(p.title)} — figure">`
+                : `<span>${esc(p.short)}</span>`}
+      </div>
+      <div class="pub-body">
+        <div class="tags">
+          <span class="tag venue">${esc(p.venue)}</span>
+          ${p.award ? `<span class="tag award">🏆 ${esc(p.award)}</span>` : ''}
+        </div>
+        <h3>${esc(p.title)}</h3>
+        <p class="authors">${authors(p.authors)}</p>
+        <p class="pub-links">${(p.links||[]).map(l => `<a href="${l[1]}" target="_blank" rel="noopener">${l[0]}</a>`).join('')}</p>
+      </div>
+    </article>`).join('');
+  document.getElementById('year').textContent = new Date().getFullYear();
+  document.getElementById('theme').onclick = () => {
+    const r = document.documentElement;
+    const dark = (r.dataset.theme || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light')) === 'dark';
+    r.dataset.theme = dark ? 'light' : 'dark';
+    try { localStorage.setItem('theme', r.dataset.theme); } catch (e) {}
+  };
+</script>
+</body>
+</html>
