@@ -42,11 +42,11 @@ const PUBS = [
     links: [["arXiv", "https://arxiv.org/abs/2412.11006"]]
   },
   {
-    short: "Online-DPO-R1",
+    img: "images/papers/online-dpo-r1.png", short: "Online-DPO-R1",
     title: "Online-DPO-R1: Unlocking Effective Reasoning Without the PPO Overhead",
     authors: "Hanning Zhang, J. Yao, C. Ye, W. Xiong, T. Zhang",
     venue: "Notion Blog",
-    links: []
+    links: [["Blog", "https://efficient-unicorn-451.notion.site/Online-DPO-R1-Unlocking-Effective-Reasoning-Without-the-PPO-Overhead-1908b9a70e7b80c3bc83f4cf04b2f175"], ["Code", "https://github.com/RLHFlow/Online-DPO-R1"]]
   },
   {
     img: "images/papers/2406.19976.png", short: "ScaleBiO",
