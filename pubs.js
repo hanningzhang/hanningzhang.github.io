@@ -1,6 +1,6 @@
 const PUBS = [
   {
-    short: "Hybrid Intelligence",
+    img: "images/papers/hybrid-intelligence.png", short: "Hybrid Intelligence",
     title: "Hybrid Intelligence: An On-Device Orchestrator That Delegates to Cloud Experts",
     authors: "H. Mao*, Hanning Zhang*, S. Diao, J. Jiang, H. Zhang, Z. Dong, S. Han, P. Molchanov",
     venue: "Under Review",
